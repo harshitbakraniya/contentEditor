@@ -42,7 +42,7 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 =======
 # contentEditor
 
-1.npm init
+1.npm install
 
 2.change .env set urls
 
